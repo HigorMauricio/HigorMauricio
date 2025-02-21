@@ -1,5 +1,6 @@
-## Olá! Eu sou o Higor Mauricio
+## Olá! Eu sou o Higor Mauricio 
 
+### Sobre mim
 - 📖 Sistemas de Informação USP Leste
 - 🌱 Estudando Front-End...
 ##
