@@ -16,7 +16,7 @@
 </div>
 <br>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorMauricio&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorMauricio&theme=dracula&layout=compact)
 
 ### Contatos
 <div> 
