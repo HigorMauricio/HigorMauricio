@@ -3,6 +3,7 @@
 ### Sobre mim
 - 📖 Sistemas de Informação USP Leste
 - 🌱 Estudando Front-End...
+- ♟️ Aprendendo sobre Algoritmos..
 ##
 ### Linguagens/Ferramentas
 <div>
