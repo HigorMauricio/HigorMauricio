@@ -13,6 +13,7 @@
     <td align="center"><img alt="C" width="40" height="40" src="https://devicon-website.vercel.app/api/c/original.svg" /></td>
     <td align="center"><img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></td>
     <td align="center"><img alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /></td>
   </tr>
   <tr>
     <td align="center"><img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></td>
