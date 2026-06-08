@@ -1,4 +1,4 @@
-## Olá! Eu sou o Higor Mauricio 
+## Olá! Eu sou o Higor Mauricio <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
 ### Sobre mim
 - 📖 Sistemas de Informação USP Leste
