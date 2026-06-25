@@ -18,9 +18,8 @@
 </div>
 
 ###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://tenor.com/pt-BR/view/cotia-dançando-made-in-cotia-sao-paulo-futebol-clube-spfc-gif-9239242787640778256.gif"  />
+<div align="center">
+  <img height="200" alt="cotia-dançando-made-in-cotia-2" src="https://github.com/user-attachments/assets/5ae2e4b9-c55b-4bb4-b24b-16ecbd22f45e" />
 </div>
 
 ###
